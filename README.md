@@ -98,6 +98,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 * [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+* [et](https://github.com/solidiquis/erdtree) - A very fast combination of du, tree, find, and ls.
 
 #### find
 
